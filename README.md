@@ -1,2 +1,2 @@
 # html-css-based-projects
-projects just based on html/css 
+layouts just based on html/css 
